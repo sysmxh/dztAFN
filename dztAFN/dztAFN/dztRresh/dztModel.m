@@ -13,4 +13,8 @@
 {
     NSLog(@"demo");
 }
+-(void)demo2
+{
+    NSLog(@"我就是叼报了");
+}
 @end

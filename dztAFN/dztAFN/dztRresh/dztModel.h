@@ -10,4 +10,5 @@
 
 @interface dztModel : NSObject
 -(void)demo;
+-(void)demo2;
 @end
